@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "c590668496d321b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "39934a5fba6323c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4a28c0e4778ec4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "839891d13bd34af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d2eb0ffa7032e58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcea3891adbac5f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e26470815df13e50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b42da13704eb633",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b14891455945995",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ff5d81b655f1a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f78b4a2c11f34cfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11edb0620866b789",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ba69ca81d0fde94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78589184dcabb7e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba4a28c0e4778ec4",
+  "lastOpenFiles": [
+    "React/Context API.md",
+    "Asset",
+    "Asset/Pasted image 20240404130148.png",
+    "Asset/Pasted image 20240404130142.png",
+    "Welcome.md",
+    "React"
+  ]
+}
